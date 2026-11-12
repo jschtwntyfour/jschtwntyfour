@@ -55,8 +55,8 @@ Hi! My name is Justyn Sachio Ho.<br>Im a Junior Cyber Security Analyst & Pentest
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jschtwntyfour&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=jschtwntyfour&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=jschtwntyfour&color=00FF41&style=for-the-badge)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
