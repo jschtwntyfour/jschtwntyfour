@@ -1,5 +1,5 @@
 #  About Me:
-Hi! My name is Justyn Sachio Ho.<br>Im a Junior Cyber Security Enthusiast & Penetration Tester.<br>Im currently a student at SMK Cinta Kasih Tzu Chi School.<br>Im a continous learner in my Cyber Security career.<br>I enjoy playing CTF on platform such as PicoCTF, OverTheWire, etc.<br>I also code using few languages such as HTML, CSS, JS, Python, and PHP.<br>Im looking forward to learn and work together with you guys!
+Hi! My name is Justyn Sachio Ho.<br>Im a Cyber Security Enthusiast & Penetration Tester.<br>Im currently a student at SMK Cinta Kasih Tzu Chi School.<br>Im a continous learner in my Cyber Security career.<br>I enjoy playing CTF on platform such as PicoCTF, OverTheWire, etc.<br>I also code using few languages such as HTML, CSS, JS, Python, and PHP.<br>Im looking forward to learn and work together with you guys!
 
 
 ## 🌐 Socials:
