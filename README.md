@@ -16,3 +16,19 @@ Im a Junior Cyber Security Analyst & Pentester<br>Im currently a student at SMK 
 [![](https://komarev.com/ghpvc/?username=justynsachio95-bit&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h2 align="center">🎮 Pac-Man Contribution Graph</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/justynsachio95-bit/justynsachio95-bit/output/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/justynsachio95-bit/justynsachio95-bit/output/pacman-contribution-graph.svg">
+    <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/justynsachio95-bit/justynsachio95-bit/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
