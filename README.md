@@ -1,11 +1,11 @@
-# 💫 About Me:
+#  About Me:
 Im a Junior Cyber Security Analyst & Pentester.<br>Im currently a student at SMK Cinta Kasih Tzu Chi School.<br>Im a continous learner in my Cyber Security career.<br>I enjoy playing CTF on platform such as PicoCTF, OverTheWire, etc.<br>I also code using few languages such as HTML, CSS, JS, Python, and PHP.<br>Im looking forward to learn and work together with you guys!
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/justyn.sch?obrf=amx1aXVxZmo0ZXZy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jsachiotwofour/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:justynsachio24@gmail.com) 
 
-<h2 align="center">🎮 Pac-Man Contribution Graph</h2>
+<h2 align="center"> Pac-Man Contribution Graph</h2>
 
 <p align="center">
   <picture>
