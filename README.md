@@ -22,7 +22,8 @@ Hi! My name is Justyn Sachio Ho.<br>Im a Junior Cyber Security Analyst & Pentest
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=kali%40sachio%3A~%23+whoami;Junior+Pentester+%7C+CTF+Player;Always+learning.+Always+exploiting+(legally)." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=kali%40sachio%3A~%23+whoami;Junior+Pentester+%7C+CTF+Player;
+    Always+learning.+Always+exploiting+(legally)." alt="Typing SVG" />
 </p>
 
 ## 🐉 Cybersecurity Arsenal
