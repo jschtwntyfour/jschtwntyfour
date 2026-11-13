@@ -14,7 +14,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/jschtwntyfour-contribution-animation-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/jschtwntyfour-contribution-animation.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/jschtwntyfour-blaster-cannon.yml">
     <img alt="Contribution animation" src="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/jschtwntyfour-contribution-animation-dark.svg" width="100%">
   </picture>
 </p>
@@ -23,11 +23,28 @@
 
 ## About
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/assets/about.svg" alt="About Justyn Sachio Ho: vocational high school student learning offensive security. Focus on security, Linux and CTFs, practicing on picoCTF and OverTheWire, building with HTML, CSS, JS, Python and PHP. Open to collaborating." width="100%"/>
-</p>
+Hi! My name is Justyn Sachio Ho.<br>
+I'm a Cyber Security Enthusiast & Penetration Tester.<br>
+I'm currently a student at SMK Cinta Kasih Tzu Chi School.<br>
+I'm a continuous learner in my Cyber Security career.<br>
+I enjoy playing CTF on platforms such as PicoCTF, OverTheWire, etc.<br>
+I also code using a few languages such as HTML, CSS, JS, Python, and PHP.<br>
+I'm looking forward to learning and working together with you guys!
 
-If you're working on something security-related or just want to trade notes, feel free to reach out.
+| Focus | Practicing on | Builds with | Status |
+|:---:|:---:|:---:|:---:|
+| Security, Linux, CTFs | picoCTF, OverTheWire | HTML, CSS, JS, Python, PHP | Learning, open to collaborating |
+
+<details>
+<summary><b>More about me</b></summary>
+<br>
+
+- **Name:** Justyn Sachio Ho
+- **School:** SMK Cinta Kasih Tzu Chi
+- **Role:** Junior Penetration Tester / Cybersecurity Analyst
+- **Currently:** Continuing to learn security fundamentals and CTF techniques
+
+</details>
 
 <br>
 
