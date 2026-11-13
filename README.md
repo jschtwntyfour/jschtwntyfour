@@ -26,9 +26,7 @@
       src="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-
 <br>
-
 ## About
 
 HI !
@@ -49,9 +47,7 @@ I'm looking forward to learning and working together with you guys!
 - **Currently:** Continuing to learn security fundamentals and CTF techniques
 
 </details>
-
 <br>
-
 ## Security Toolkit
 
 <p>
