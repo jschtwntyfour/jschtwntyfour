@@ -1,5 +1,5 @@
 <h1 align="center">Justyn Sachio Ho</h1>
-<p align="center"><b>Junior Penetration Tester &nbsp;& &nbsp; Cybersecurity Enthusiast</b></p>
+<p align="center"><b>Junior Penetration Tester &nbsp;|&nbsp; Cybersecurity Enthusiast</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=720&lines=root%40kali%3A~%23+whoami;Junior+Pentester+and+CTF+Player;Secure.+Python.+Attack.;Hack+with+permission.+Report+responsibly." alt="typing" />
@@ -13,9 +13,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/kali-output/kali-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/kali-output/kali-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/kali-output/kali-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/jschtwntyfour-contribution-animation-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/jschtwntyfour-contribution-animation.svg">
+    <img alt="Contribution animation" src="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/jschtwntyfour-contribution-animation-dark.svg" width="100%">
   </picture>
 </p>
 
@@ -23,21 +23,11 @@
 
 ## About
 
-```text
-~$ cat about.txt
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/assets/about.svg" alt="About Justyn Sachio Ho: vocational high school student learning offensive security. Focus on security, Linux and CTFs, practicing on picoCTF and OverTheWire, building with HTML, CSS, JS, Python and PHP. Open to collaborating." width="100%"/>
+</p>
 
-Name      : Justyn Sachio Ho
-Role      : Junior Penetration Tester / Cybersecurity Analyst
-School    : SMK Cinta Kasih Tzu Chi
-Focus     : Security, Linux, CTFs
-Code      : HTML, CSS, JavaScript, Python, PHP
-Practice  : picoCTF, OverTheWire, etc
-Status    : Learning, open to collaborating
-```
-
-I'm a vocational high school student building a career in offensive and defensive security. I learn mostly by doing: solving CTF challenges, breaking things in lab environments, and writing small web apps in PHP and MySQL so I understand how vulnerabilities actually end up in real code.
-
-If you're working on something security-related or just want to trade notes, feel free to reach out!
+If you're working on something security-related or just want to trade notes, feel free to reach out.
 
 <br>
 
