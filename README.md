@@ -13,9 +13,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/jschtwntyfour-contribution-animation-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/jschtwntyfour-blaster-cannon.yml">
-    <img alt="Contribution animation" src="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/jschtwntyfour-contribution-animation-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/github-contribution-animation-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/github-contribution-animation.svg">
+    <img alt="Contribution animation" src="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/github-contribution-animation-dark.svg" width="100%">
   </picture>
 </p>
 
