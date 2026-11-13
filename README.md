@@ -1,5 +1,5 @@
 <h1 align="center">Justyn Sachio Ho</h1>
-<p align="center"><b>Junior Penetration Tester &nbsp;|&nbsp; Cybersecurity Enthusiast</b></p>
+<p align="center"><b>Junior Penetration Tester &nbsp;& &nbsp; Cybersecurity Enthusiast</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=720&lines=root%40kali%3A~%23+whoami;Junior+Pentester+and+CTF+Player;Secure.+Python.+Attack.;Hack+with+permission.+Report+responsibly." alt="typing" />
@@ -9,6 +9,14 @@
   <a href="https://www.linkedin.com/in/jsachiotwofour/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/justyn.sch?obrf=amx1aXVxZmo0ZXZy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:justynsachio24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/kali-output/kali-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/kali-output/kali-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/kali-output/kali-snake-dark.svg">
+  </picture>
 </p>
 
 <br>
@@ -27,9 +35,9 @@ Practice  : picoCTF, OverTheWire, etc
 Status    : Learning, open to collaborating
 ```
 
-I'm a vocational high school student building a career in offensive security. I learn mostly by doing: solving CTF challenges, breaking things in lab environments, and writing small web apps in PHP and MySQL so I understand how vulnerabilities actually end up in real code.
+I'm a vocational high school student building a career in offensive and defensive security. I learn mostly by doing: solving CTF challenges, breaking things in lab environments, and writing small web apps in PHP and MySQL so I understand how vulnerabilities actually end up in real code.
 
-If you're working on something security-related or just want to trade notes, feel free to reach out.
+If you're working on something security-related or just want to trade notes, feel free to reach out!
 
 <br>
 
@@ -125,14 +133,6 @@ If you're working on something security-related or just want to trade notes, fee
 <br>
 
 ## Activity
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/kali-output/kali-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/kali-output/kali-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/kali-output/kali-snake-dark.svg">
-  </picture>
-</p>
 
 <p align="center">
   <img height="170" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=jschtwntyfour&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=367BF0&text_color=c9d1d9&icon_color=367BF0" />
