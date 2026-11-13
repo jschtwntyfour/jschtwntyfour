@@ -1,8 +1,8 @@
 <h1 align="center">Justyn Sachio Ho</h1>
-<p align="center"><b>Junior Penetration Tester &nbsp;|&nbsp; Cybersecurity Enthusiast</b></p>
+<p align="center"><b>Junior Penetration Tester &nbsp;& &nbsp; Cybersecurity Enthusiast</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=720&lines=root%40kali%3A~%23+whoami;Junior+Pentester+and+CTF+Player;Secure.+Python.+Attack.;Hack+with+permission.+Report+responsibly." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=720&lines=root%40kali%3A~%23+whoami;Junior+Pentester+and+CTF+Player;Secure.+Python.+Attack.;Exploit+with+permission.+Report+responsibly." alt="typing" />
 </p>
 
 <p align="center">
@@ -11,11 +11,19 @@
   <a href="mailto:justynsachio24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+<h2 align="center"> 🎮 Pac-Man Contribution Graph</h2>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/github-contribution-animation-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/github-contribution-animation.svg">
-    <img alt="Contribution animation" src="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/main/github-contribution-animation-dark.svg" width="100%">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/output/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/output/pacman-contribution-graph.svg">
+    <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
@@ -23,17 +31,13 @@
 
 ## About
 
-Hi! My name is Justyn Sachio Ho.<br>
+HI !
 I'm a Cyber Security Enthusiast & Penetration Tester.<br>
-I'm currently a student at SMK Cinta Kasih Tzu Chi School.<br>
 I'm a continuous learner in my Cyber Security career.<br>
 I enjoy playing CTF on platforms such as PicoCTF, OverTheWire, etc.<br>
 I also code using a few languages such as HTML, CSS, JS, Python, and PHP.<br>
 I'm looking forward to learning and working together with you guys!
 
-| Focus | Practicing on | Builds with | Status |
-|:---:|:---:|:---:|:---:|
-| Security, Linux, CTFs | picoCTF, OverTheWire | HTML, CSS, JS, Python, PHP | Learning, open to collaborating |
 
 <details>
 <summary><b>More about me</b></summary>
