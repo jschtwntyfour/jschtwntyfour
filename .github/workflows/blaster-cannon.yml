@@ -2,7 +2,7 @@ name: Generate Contribution Animation
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Daily at 00:00 UTC
+    - cron: '0 0 * * *'
   workflow_dispatch: {}
   push:
     branches: [ main ]
@@ -22,8 +22,11 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
 
+      - name: Show generated files
+        run: ls -la
+
       - name: Commit and push SVG
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: 'chore: update contribution animation [skip ci]'
-          file_pattern: "*-contribution-animation*.svg contribution-animation*.svg github-contribution-animation*.svg"
+          file_pattern: '*.svg'
