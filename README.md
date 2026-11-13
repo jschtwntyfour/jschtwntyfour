@@ -1,5 +1,5 @@
 <h1 align="center">Justyn Sachio Ho</h1>
-<p align="center"><b>Junior Penetration Tester &nbsp;& &nbsp; Cybersecurity Enthusiast</b></p>
+<p align="center"><b>Cybersecurity Enthusiast</b></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=720&lines=root%40kali%3A~%23+whoami;Junior+Pentester+and+CTF+Player;Secure.+Python.+Attack.;Exploit+with+permission.+Report+responsibly." alt="typing" />
