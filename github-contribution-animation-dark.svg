@@ -38,8 +38,8 @@
     <circle cx="7" cy="35" r="6" fill="#161b22"/>
     <circle cx="7" cy="49" r="6" fill="#161b22"/>
     <circle cx="7" cy="63" r="6" fill="#161b22"/>
-    <circle cx="7" cy="77" r="6" fill="#216e39">
-      <set attributeName="fill" to="#216e39" begin="cycle.begin"/>
+    <circle cx="7" cy="77" r="6" fill="#9be9a8">
+      <set attributeName="fill" to="#9be9a8" begin="cycle.begin"/>
       <animate attributeName="r" values="6;8.1;6" keyTimes="0;0.5;1" begin="s0.end" dur="0.2s" fill="freeze"/>
       <set attributeName="fill" to="#161b22" begin="s0.end+0.12s"/>
     </circle>
@@ -95,8 +95,8 @@
     <circle cx="105" cy="91" r="6" fill="#161b22"/>
     <circle cx="119" cy="7" r="6" fill="#161b22"/>
     <circle cx="119" cy="21" r="6" fill="#161b22"/>
-    <circle cx="119" cy="35" r="6" fill="#216e39">
-      <set attributeName="fill" to="#216e39" begin="cycle.begin"/>
+    <circle cx="119" cy="35" r="6" fill="#9be9a8">
+      <set attributeName="fill" to="#9be9a8" begin="cycle.begin"/>
       <animate attributeName="r" values="6;8.1;6" keyTimes="0;0.5;1" begin="s1.end" dur="0.2s" fill="freeze"/>
       <set attributeName="fill" to="#161b22" begin="s1.end+0.12s"/>
     </circle>
@@ -119,8 +119,8 @@
     <circle cx="147" cy="77" r="6" fill="#161b22"/>
     <circle cx="147" cy="91" r="6" fill="#161b22"/>
     <circle cx="161" cy="7" r="6" fill="#161b22"/>
-    <circle cx="161" cy="21" r="6" fill="#40c463">
-      <set attributeName="fill" to="#40c463" begin="cycle.begin"/>
+    <circle cx="161" cy="21" r="6" fill="#9be9a8">
+      <set attributeName="fill" to="#9be9a8" begin="cycle.begin"/>
       <animate attributeName="r" values="6;8.1;6" keyTimes="0;0.5;1" begin="s2.end" dur="0.2s" fill="freeze"/>
       <set attributeName="fill" to="#161b22" begin="s2.end+0.12s"/>
     </circle>
@@ -166,8 +166,8 @@
     <circle cx="231" cy="91" r="6" fill="#161b22"/>
     <circle cx="245" cy="7" r="6" fill="#161b22"/>
     <circle cx="245" cy="21" r="6" fill="#161b22"/>
-    <circle cx="245" cy="35" r="6" fill="#216e39">
-      <set attributeName="fill" to="#216e39" begin="cycle.begin"/>
+    <circle cx="245" cy="35" r="6" fill="#9be9a8">
+      <set attributeName="fill" to="#9be9a8" begin="cycle.begin"/>
       <animate attributeName="r" values="6;8.1;6" keyTimes="0;0.5;1" begin="s3.end" dur="0.2s" fill="freeze"/>
       <set attributeName="fill" to="#161b22" begin="s3.end+0.12s"/>
     </circle>
@@ -431,6 +431,7 @@
       <animate attributeName="r" values="6;8.1;6" keyTimes="0;0.5;1" begin="s6.end" dur="0.2s" fill="freeze"/>
       <set attributeName="fill" to="#161b22" begin="s6.end+0.12s"/>
     </circle>
+    <circle cx="735" cy="91" r="6" fill="#161b22"/>
 
   <!-- bullets -->
   
