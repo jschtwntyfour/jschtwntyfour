@@ -1,11 +1,11 @@
 <!-- Animated header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a12,50:064e3b,100:00c853&height=170&section=header&text=Justyn%20Sachio%20Ho&fontSize=44&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Cybersecurity%20Enthusiast%20%7C%20Junior%20Pentester&descSize=18&descAlignY=62" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:30363d,100:ffffff&height=170&section=header&text=Justyn%20Sachio%20Ho&fontSize=44&fontColor=ffffff&fontAlignY=40&animation=fadeIn&desc=Cybersecurity%20Enthusiast%20%7C%20Junior%20Pentester&descSize=18&descAlignY=62" width="100%" alt="header" />
 </p>
 
 <!-- New typing text (different from the common ones) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00C853&center=true&vCenter=true&width=820&height=40&lines=root%40justyn%3A~%23+.%2Flearn+--never-stop;Every+bug+is+a+lesson+in+disguise;Reading+packets%2C+chasing+flags+%F0%9F%9A%A9;Offense+teaches%2C+defense+protects;Still+a+stubborn+learner%2C+and+proud+of+it" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=FFFFFF&center=true&vCenter=true&width=820&height=40&lines=root%40justyn%3A~%23+.%2Flearn+--never-stop;Every+bug+is+a+lesson+in+disguise;Reading+packets%2C+chasing+flags+%F0%9F%9A%A9;Offense+teaches%2C+defense+protects;Still+a+stubborn+learner%2C+and+proud+of+it" alt="typing" />
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 <!-- Animated terminal box -->
 <p align="center">
-  <img src="assets/terminal.svg?v=4" width="820" alt="animated terminal" />
+  <img src="assets/terminal.svg?v=5" width="820" alt="animated terminal" />
 </p>
 
-<p align="center"><img src="assets/head-pacman.svg?v=4" width="900" alt="pac-man contribution graph" /></p>
+<p align="center"><img src="assets/head-pacman.svg?v=5" width="900" alt="pac-man contribution graph" /></p>
 
 <p align="center">
   <picture>
@@ -29,7 +29,7 @@
   </picture>
 </p>
 
-<p align="center"><img src="assets/head-about.svg?v=4" width="900" alt="about" /></p>
+<p align="center"><img src="assets/head-about.svg?v=5" width="900" alt="about" /></p>
 
 HI! I'm a **Cyber Security Enthusiast & Penetration Tester**.
 
@@ -49,34 +49,34 @@ I'm looking forward to learning and working together with you guys!
 - **Currently:** Continuing to learn security fundamentals and CTF techniques
 </details>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,50:064e3b,100:071a12&height=4&section=footer" width="100%" alt="divider" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:30363d,100:0d1117&height=4&section=footer" width="100%" alt="divider" /></p>
 
-<p align="center"><img src="assets/stack-tools.svg?v=4" width="900" alt="Security Toolkit" /></p>
+<p align="center"><img src="assets/stack-tools.svg?v=5" width="900" alt="Security Toolkit" /></p>
 
-<p align="center"><img src="assets/stack-platforms.svg?v=4" width="900" alt="Platforms" /></p>
+<p align="center"><img src="assets/stack-platforms.svg?v=5" width="900" alt="Platforms" /></p>
 
-<p align="center"><img src="assets/stack-languages.svg?v=4" width="900" alt="languages" /></p>
+<p align="center"><img src="assets/stack-languages.svg?v=5" width="900" alt="languages" /></p>
 
-<p align="center"><img src="assets/stack-frameworks.svg?v=4" width="900" alt="frameworks" /></p>
+<p align="center"><img src="assets/stack-frameworks.svg?v=5" width="900" alt="frameworks" /></p>
 
-<p align="center"><img src="assets/stack-infra.svg?v=4" width="900" alt="infra, design, environment" /></p>
+<p align="center"><img src="assets/stack-infra.svg?v=5" width="900" alt="infra, design, environment" /></p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,50:064e3b,100:071a12&height=4&section=footer" width="100%" alt="divider" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,50:30363d,100:0d1117&height=4&section=footer" width="100%" alt="divider" /></p>
 
-<p align="center"><img src="assets/head-activity.svg?v=4" width="900" alt="activity" /></p>
+<p align="center"><img src="assets/head-activity.svg?v=5" width="900" alt="activity" /></p>
 
 <p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=jschtwntyfour&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&icon_color=00C853" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jschtwntyfour&layout=compact&hide_border=true&bg_color=0d1117&title_color=00C853&text_color=c9d1d9" />
+  <img height="170" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=jschtwntyfour&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=FFFFFF&text_color=c9d1d9&icon_color=FFFFFF" />
+  <img height="170" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jschtwntyfour&layout=compact&hide_border=true&bg_color=0d1117&title_color=FFFFFF&text_color=c9d1d9" />
 </p>
 <p align="center">
-  <img alt="Streak stats" src="https://streak-stats.demolab.com/?user=jschtwntyfour&hide_border=true&background=0d1117&ring=00C853&fire=00C853&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00C853&sideLabels=c9d1d9&dates=8b949e" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a12,50:064e3b,100:00c853&height=90&section=footer" width="100%" alt="footer" />
+  <img alt="Streak stats" src="https://streak-stats.demolab.com/?user=jschtwntyfour&hide_border=true&background=0d1117&ring=FFFFFF&fire=FFFFFF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=FFFFFF&sideLabels=c9d1d9&dates=8b949e" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jschtwntyfour&color=00C853&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:30363d,100:ffffff&height=90&section=footer" width="100%" alt="footer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jschtwntyfour&color=FFFFFF&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
