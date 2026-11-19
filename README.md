@@ -78,5 +78,5 @@ I'm looking forward to learning and working together with you guys!
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jschtwntyfour&color=FFFFFF&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=jschtwntyfour&color=30363d&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
