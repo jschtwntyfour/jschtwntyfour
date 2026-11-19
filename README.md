@@ -1,8 +1,9 @@
 <h1 align="center">Justyn Sachio Ho</h1>
-<p align="center"><b>Cybersecurity Enthusiast</b></p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071a12,50:064e3b,100:00c853&height=5&section=header" width="100%" alt="green gradient divider" />
+<p align="center"><b>Cybersecurity Enthusiast</b></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071a12,50:064e3b,100:00c853&height=5&section=header" width="100%" alt="green gradient accent" />
 </p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00C853&center=true&vCenter=true&width=820&lines= curiosity+is+my+favorite+exploit;Mapping+the+unknown%2C+one+packet+at+a+time;From+CTF+challenges+to+real-world+defense;Breaking+down+systems+to+build+them+better;Always+learning.+Always+testing." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00C853&center=true&vCenter=true&width=820&lines=curiosity+is+my+favorite+exploit;Mapping+the+unknown+one+packet+at+a+time;From+CTF+challenges+to+real+world+defense;Breaking+down+systems+to+build+them+better;Learn+the+pattern+then+question+the+system" alt="typing" />
 </p><p align="center">
   <a href="https://www.linkedin.com/in/jsachiotwofour/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/justyn.sch?obrf=amx1aXVxZmo0ZXZy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -108,9 +109,9 @@ I'm looking forward to learning and working together with you guys!
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,html,css,js,ts,php,mysql,git,github,vscode,docker,firebase,angular&perline=8" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,html,css,js,ts,php,mysql,react,nextjs,vue,angular,laravel,nodejs,docker,cloudflare,firebase,git,github,vscode,figma,blender&perline=8" alt="Technology and development icons" />
 </p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,50:064e3b,100:071a12&height=4&section=footer" width="100%" alt="green gradient divider" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,50:064e3b,100:071a12&height=4&section=footer" width="100%" alt="green gradient accent" />
 </p>Activity
 <p align="center">
   <img height="170" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=jschtwntyfour&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=367BF0&text_color=c9d1d9&icon_color=367BF0" />
@@ -119,7 +120,7 @@ I'm looking forward to learning and working together with you guys!
   <img alt="Streak stats" src="https://streak-stats.demolab.com/?user=jschtwntyfour&hide_border=true&background=0d1117&ring=367BF0&fire=367BF0&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=367BF0&sideLabels=c9d1d9&dates=8b949e" />
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a12,50:064e3b,100:00c853&height=90&section=footer" width="100%" alt="animated green footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a12,50:064e3b,100:00c853&height=90&section=footer" width="100%" alt="green wave footer" />
 </p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=jschtwntyfour&color=367BF0&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
