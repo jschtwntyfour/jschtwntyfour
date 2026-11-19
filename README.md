@@ -1,19 +1,13 @@
 <h1 align="center">Justyn Sachio Ho</h1>
-<p align="center"><b>Cybersecurity Enthusiast</b></p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C853&center=true&vCenter=true&width=720&lines=root%40kali%3A~%23+whoami;Junior+Pentester+and+CTF+Player;Secure.+Python.+Attack.;Exploit+with+permission.+Report+responsibly." alt="typing" />
-</p>
-
-<p align="center">
+<p align="center"><b>Cybersecurity Enthusiast</b></p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:071a12,50:064e3b,100:00c853&height=5&section=header" width="100%" alt="green gradient divider" />
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00C853&center=true&vCenter=true&width=820&lines= curiosity+is+my+favorite+exploit;Mapping+the+unknown%2C+one+packet+at+a+time;From+CTF+challenges+to+real-world+defense;Breaking+down+systems+to+build+them+better;Always+learning.+Always+testing." alt="typing" />
+</p><p align="center">
   <a href="https://www.linkedin.com/in/jsachiotwofour/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI%2BPHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/justyn.sch?obrf=amx1aXVxZmo0ZXZy"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:justynsachio24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<h2 align="center"> 🎮 Pac-Man Contribution Graph</h2>
-
-<p align="center">
+</p><h2 align="center"> 🎮 Pac-Man Contribution Graph</h2><p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -26,32 +20,25 @@
       src="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-<br>
-
-## About
-
+<br>About
 HI !
-I'm a Cyber Security Enthusiast & Penetration Tester.<br>
-I'm a continuous learner in my Cyber Security career.<br>
-I enjoy playing CTF on platforms such as PicoCTF, OverTheWire, etc.<br>
-I also code using a few languages such as HTML, CSS, JS, Python, and PHP.<br>
+I'm a Cyber Security Enthusiast & Penetration Tester.
+
+I'm a continuous learner in my Cyber Security career.
+
+I enjoy playing CTF on platforms such as PicoCTF, OverTheWire, etc.
+
+I also code using a few languages such as HTML, CSS, JS, Python, and PHP.
+
 I'm looking forward to learning and working together with you guys!
-
-
 <details>
 <summary><b>More about me</b></summary>
-<br>
-
-- **Name:** Justyn Sachio Ho
-- **School:** SMK Cinta Kasih Tzu Chi
-- **Role:** Junior Penetration Tester / Cybersecurity Analyst
-- **Currently:** Continuing to learn security fundamentals and CTF techniques
-
+<br>- Name: Justyn Sachio Ho
+- School: SMK Cinta Kasih Tzu Chi
+- Role: Junior Penetration Tester / Cybersecurity Analyst
+- Currently: Continuing to learn security fundamentals and CTF techniques
 </details>
-<br>
-
-## Security Toolkit
-
+<br>Security Toolkit
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali_Linux"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -65,19 +52,13 @@ I'm looking forward to learning and working together with you guys!
   <img src="https://img.shields.io/badge/John_the_Ripper-444444?style=for-the-badge" alt="John_the_Ripper"/>
   <img src="https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gobuster"/>
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
-</p>
-
-## Platforms
-
+</p>Platforms
 <p>
   <img src="https://img.shields.io/badge/picoCTF-5E6AD2?style=for-the-badge" alt="picoCTF"/>
   <img src="https://img.shields.io/badge/OverTheWire-37474F?style=for-the-badge" alt="OverTheWire"/>
   <img src="https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
   <img src="https://img.shields.io/badge/Hack_The_Box-141D2F?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack_The_Box"/>
-</p>
-
-## Languages
-
+</p>Languages
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -88,10 +69,7 @@ I'm looking forward to learning and working together with you guys!
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-</p>
-
-## Frameworks and Libraries
-
+</p>Frameworks and Libraries
 <p>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind_CSS"/>
@@ -105,10 +83,7 @@ I'm looking forward to learning and working together with you guys!
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-</p>
-
-## Infrastructure and Hardware
-
+</p>Infrastructure and Hardware
 <p>
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -118,19 +93,13 @@ I'm looking forward to learning and working together with you guys!
   <img src="https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" alt="OpenStack"/>
   <img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black" alt="Cisco"/>
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
-</p>
-
-## Design
-
+</p>Design
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge" alt="Photoshop"/>
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-</p>
-
-## Environment
-
+</p>Environment
 <p>
   <img src="https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Windows_Terminal"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS_Code"/>
@@ -138,22 +107,19 @@ I'm looking forward to learning and working together with you guys!
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
 </p>
-
-<br>
-
-## Activity
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,linux,bash,python,html,css,js,ts,php,mysql,git,github,vscode,docker,firebase,angular&perline=8" alt="Technology icons" />
+</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,50:064e3b,100:071a12&height=4&section=footer" width="100%" alt="green gradient divider" />
+</p>Activity
 <p align="center">
   <img height="170" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=jschtwntyfour&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=367BF0&text_color=c9d1d9&icon_color=367BF0" />
   <img height="170" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=jschtwntyfour&layout=compact&hide_border=true&bg_color=0d1117&title_color=367BF0&text_color=c9d1d9" />
-</p>
-
-<p align="center">
+</p><p align="center">
   <img alt="Streak stats" src="https://streak-stats.demolab.com/?user=jschtwntyfour&hide_border=true&background=0d1117&ring=367BF0&fire=367BF0&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=367BF0&sideLabels=c9d1d9&dates=8b949e" />
 </p>
-
-<br>
-
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a12,50:064e3b,100:00c853&height=90&section=footer" width="100%" alt="animated green footer" />
+</p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=jschtwntyfour&color=367BF0&style=for-the-badge&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
