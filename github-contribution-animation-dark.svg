@@ -445,8 +445,8 @@
       <animate attributeName="r" values="6;8.1;6" keyTimes="0;0.5;1" begin="s10.end" dur="0.2s" fill="freeze"/>
       <set attributeName="fill" to="#161b22" begin="s10.end+0.12s"/>
     </circle>
-    <circle cx="735" cy="63" r="6" fill="#30a14e">
-      <set attributeName="fill" to="#30a14e" begin="cycle.begin"/>
+    <circle cx="735" cy="63" r="6" fill="#216e39">
+      <set attributeName="fill" to="#216e39" begin="cycle.begin"/>
       <animate attributeName="r" values="6;8.1;6" keyTimes="0;0.5;1" begin="s11.end" dur="0.2s" fill="freeze"/>
       <set attributeName="fill" to="#161b22" begin="s11.end+0.12s"/>
     </circle>
