@@ -42,7 +42,9 @@ I'm looking forward to learning and working together with you guys!
 - Role: Junior Penetration Tester / Cybersecurity Analyst
 - Currently: Continuing to learn security fundamentals and CTF techniques
 </details>
-<br>Security Toolkit
+<br>
+<b>Security Toolkit</b>
+<br>
 <p>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali_Linux"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
@@ -56,13 +58,15 @@ I'm looking forward to learning and working together with you guys!
   <img src="https://img.shields.io/badge/John_the_Ripper-444444?style=for-the-badge" alt="John_the_Ripper"/>
   <img src="https://img.shields.io/badge/Gobuster-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Gobuster"/>
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
-</p>Platforms
+</p><b>Platforms</b>
+<br>
 <p>
   <img src="https://img.shields.io/badge/picoCTF-5E6AD2?style=for-the-badge" alt="picoCTF"/>
   <img src="https://img.shields.io/badge/OverTheWire-37474F?style=for-the-badge" alt="OverTheWire"/>
   <img src="https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/>
   <img src="https://img.shields.io/badge/Hack_The_Box-141D2F?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Hack_The_Box"/>
-</p>Languages
+</p><b>Languages</b>
+<br>
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -73,7 +77,7 @@ I'm looking forward to learning and working together with you guys!
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-</p>Frameworks and Libraries
+</p><b>Frameworks and Libraries</b>
 <p>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind_CSS"/>
