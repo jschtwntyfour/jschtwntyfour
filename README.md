@@ -21,7 +21,9 @@
       src="https://raw.githubusercontent.com/jschtwntyfour/jschtwntyfour/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-<br>About
+
+<br>
+<b>About</b>
 HI !
 I'm a Cyber Security Enthusiast & Penetration Tester.
 
