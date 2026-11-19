@@ -5,7 +5,7 @@
 
 <!-- New typing text (different from the common ones) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00C853&center=true&vCenter=true&width=820&height=40&lines=root%40sachio%3A~%23+.%2Flearn+--never-stop;Every+bug+is+a+lesson+in+disguise;Reading+packets%2C+chasing+flags+%F0%9F%9A%A9;Offense+teaches%2C+defense+protects;Still+a+learner%2C+and+proud+of+it" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00C853&center=true&vCenter=true&width=820&height=40&lines=root%40justyn%3A~%23+.%2Flearn+--never-stop;Every+bug+is+a+lesson+in+disguise;Reading+packets%2C+chasing+flags+%F0%9F%9A%A9;Offense+teaches%2C+defense+protects;Still+a+stubborn+learner%2C+and+proud+of+it" alt="typing" />
 </p>
 
 <p align="center">
@@ -16,10 +16,10 @@
 
 <!-- Animated terminal box -->
 <p align="center">
-  <img src="assets/terminal.svg" width="820" alt="animated terminal" />
+  <img src="assets/terminal.svg?v=4" width="820" alt="animated terminal" />
 </p>
 
-<h2 align="center"><b>🎮 PAC-MAN CONTRIBUTION GRAPH</b></h2>
+<p align="center"><img src="assets/head-pacman.svg?v=4" width="900" alt="pac-man contribution graph" /></p>
 
 <p align="center">
   <picture>
@@ -29,7 +29,7 @@
   </picture>
 </p>
 
-<h2><b>👋 ABOUT ME</b></h2>
+<p align="center"><img src="assets/head-about.svg?v=4" width="900" alt="about" /></p>
 
 HI! I'm a **Cyber Security Enthusiast & Penetration Tester**.
 
@@ -51,24 +51,19 @@ I'm looking forward to learning and working together with you guys!
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,50:064e3b,100:071a12&height=4&section=footer" width="100%" alt="divider" /></p>
 
-<h2 align="center"><b>⚔️ SECURITY TOOLKIT</b></h2>
-<p align="center"><img src="assets/stack-tools.svg" width="900" alt="security tools" /></p>
+<p align="center"><img src="assets/stack-tools.svg?v=4" width="900" alt="Security Toolkit" /></p>
 
-<h2 align="center"><b>🚩 PLATFORMS</b></h2>
-<p align="center"><img src="assets/stack-platforms.svg" width="900" alt="platforms" /></p>
+<p align="center"><img src="assets/stack-platforms.svg?v=4" width="900" alt="Platforms" /></p>
 
-<h2 align="center"><b>💻 LANGUAGES</b></h2>
-<p align="center"><img src="assets/stack-languages.svg" width="900" alt="languages" /></p>
+<p align="center"><img src="assets/stack-languages.svg?v=4" width="900" alt="languages" /></p>
 
-<h2 align="center"><b>🧩 FRAMEWORKS &amp; LIBRARIES</b></h2>
-<p align="center"><img src="assets/stack-frameworks.svg" width="900" alt="frameworks" /></p>
+<p align="center"><img src="assets/stack-frameworks.svg?v=4" width="900" alt="frameworks" /></p>
 
-<h2 align="center"><b>🏗️ INFRASTRUCTURE, DESIGN &amp; ENVIRONMENT</b></h2>
-<p align="center"><img src="assets/stack-infra.svg" width="900" alt="infra, design, environment" /></p>
+<p align="center"><img src="assets/stack-infra.svg?v=4" width="900" alt="infra, design, environment" /></p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00c853,50:064e3b,100:071a12&height=4&section=footer" width="100%" alt="divider" /></p>
 
-<h2 align="center"><b>📊 ACTIVITY</b></h2>
+<p align="center"><img src="assets/head-activity.svg?v=4" width="900" alt="activity" /></p>
 
 <p align="center">
   <img height="170" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=jschtwntyfour&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=00C853&text_color=c9d1d9&icon_color=00C853" />
