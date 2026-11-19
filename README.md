@@ -5,7 +5,7 @@
 
 <!-- New typing text (different from the common ones) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00C853&center=true&vCenter=true&width=820&height=40&lines=root%40justyn%3A~%23+.%2Flearn+--never-stop;Every+bug+is+a+lesson+in+disguise;Reading+packets%2C+chasing+flags+%F0%9F%9A%A9;Offense+teaches%2C+defense+protects;Still+a+stubborn+learner%2C+and+proud+of+it" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=00C853&center=true&vCenter=true&width=820&height=40&lines=root%40sachio%3A~%23+.%2Flearn+--never-stop;Every+bug+is+a+lesson+in+disguise;Reading+packets%2C+chasing+flags+%F0%9F%9A%A9;Offense+teaches%2C+defense+protects;Still+a+stubborn+learner%2C+and+proud+of+it" alt="typing" />
 </p>
 
 <p align="center">
